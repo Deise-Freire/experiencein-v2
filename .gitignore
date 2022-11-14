@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 .tmp
-npm-debug.log
+npmdebug.log
 __init__.py
 __pycache__/
 *.py[cod]
@@ -277,542 +277,302 @@ venv.bak/
 .327gx3do0is9z4111965264~
 .32hs8sou0klfr3827550880~
 .32n77k14e1pkh2009342475~
-Initial commit
-1 hour ago
 .32okm6ma6fhfp2800400435~
-Initial commit
-1 hour ago
 .32y6lol72hwgg3282862537~
-Initial commit
-1 hour ago
 .3324a0a8t5cz1418130309~
-Initial commit
-1 hour ago
 .3391q6twupukf2403378178~
-Initial commit
-1 hour ago
 .33e79qlz45w8q2478094074~
-Initial commit
-1 hour ago
 .33u8ib6kclniy2222016613~
-Initial commit
-1 hour ago
 .33xywnx8eyrmm795149296~
-Initial commit
-1 hour ago
 .34g2fr4nwe3mn4267354250~
-Initial commit
-1 hour ago
 .34o9ub22q0wmh4272428917~
-Initial commit
-1 hour ago
 .351hyrzyxysmf4166275516~
-Initial commit
-1 hour ago
 .35t23vptjkwet3753719465~
-Initial commit
-1 hour ago
 .35t89jdck4qgi3309017995~
-Initial commit
-1 hour ago
 .35vylp05m0kqb3562137991~
-Initial commit
-1 hour ago
 .362idvoin9yuo2299734538~
-Initial commit
-1 hour ago
 .36x15q74klgjq1685080760~
-Initial commit
-1 hour ago
 .37693xrdx7e0u1280574135~
-Initial commit
-1 hour ago
 .37n3w8tzxd67e2601485662~
-Initial commit
-1 hour ago
 .37r66af7can0t425948245~
-Initial commit
-1 hour ago
 .3882fnwdkackj2301741499~
-Initial commit
-1 hour ago
 .38ib18grfxnam1107205246~
-Initial commit
-1 hour ago
 .38xsboot2i6o12486258012~
-Initial commit
-1 hour ago
 .394lwfta2yvib2263770951~
-Initial commit
-1 hour ago
 .398bddgxfiryf328080840~
-Initial commit
-1 hour ago
 .39h7m649hyjl22233629457~
-Initial commit
-1 hour ago
 .39j60d6fvuuk83722413625~
-Initial commit
-1 hour ago
 .39y5h64qpwh103573445078~
-Initial commit
-1 hour ago
 .39yp073s5vawo2714403310~
-Initial commit
-1 hour ago
 .39zrj928zxfgp21409681~
-Initial commit
-1 hour ago
 .3a2rvuickr6u91631491790~
-Initial commit
-1 hour ago
 .3a3af2t5dg5mr3432701835~
-Initial commit
-1 hour ago
 .3a4jmvstiwims78160409~
-Initial commit
-1 hour ago
 .3a7q5tc37vv854000010134~
-Initial commit
-1 hour ago
 .3aqkw4go6paef108693108~
-Initial commit
-1 hour ago
 .3b91wgnd19vcx360024973~
-Initial commit
-1 hour ago
 .3bg5vl6qy694f2362866899~
-Initial commit
-1 hour ago
 .3bmezd4hih4gf3928210861~
-Initial commit
-1 hour ago
 .3bo5ayovhqqc21693058487~
-Initial commit
-1 hour ago
 .3bona88c6381l3986986192~
-Initial commit
-1 hour ago
 .3c62prylk56to1260706140~
-Initial commit
-1 hour ago
 .3cdb96bsfvxtp1738441640~
-Initial commit
-1 hour ago
 .3ch1swj7ku0vz2922292390~
-Initial commit
-1 hour ago
 .3dd0porgonzl92918058460~
-Initial commit
-1 hour ago
 .3dflkgfubohc0187291399~
-Initial commit
-1 hour ago
 .3dj62izk7e63n2037224338~
-Initial commit
-1 hour ago
 .3dt0eshfh9xhg1414115432~
-Initial commit
-1 hour ago
 .3e6k51bfgodms40154672~
-Initial commit
-1 hour ago
 .3e6kkbs7w00uv473624650~
-Initial commit
-1 hour ago
 .3eethd8hla2xe349628941~
-Initial commit
-1 hour ago
 .3en1k8b8bfejg133342003~
-Initial commit
-1 hour ago
 .3fbrltjl95vd62046392469~
-Initial commit
-1 hour ago
 .3ffj8hnfpiu0b3494908882~
-Initial commit
-1 hour ago
 .3fiwwfjym952r2477041622~
-Initial commit
-1 hour ago
 .3fnwgimvpka2y1897637606~
-Initial commit
-1 hour ago
 .3fyx6s3pkg6r04105626581~
-Initial commit
-1 hour ago
 .3g9q400sn4jut3402540234~
-Initial commit
-1 hour ago
 .3gekjq1a7bta7784872969~
-Initial commit
-1 hour ago
 .3ggod6ilvz0c4885121015~
-Initial commit
-1 hour ago
 .3gkozg760d07o153541732~
-Initial commit
-1 hour ago
 .3gqcvs198uwxf1560622568~
-Initial commit
-1 hour ago
+
 .3gqrfqzh5gnpb635871281~
-Initial commit
-1 hour ago
+
 .3gu1uy4a7xj3o1755862333~
-Initial commit
-1 hour ago
+
 .3gu5tx3onsjon2422948171~
-Initial commit
-1 hour ago
+
 .3gyldkko1g3ts1718132167~
-Initial commit
-1 hour ago
+
 .3h7a0g1hu5qzt2963743869~
-Initial commit
-1 hour ago
+
 .3h8rt9blwdxjo738242475~
-Initial commit
-1 hour ago
+
 .3hdx0i916ar742053665995~
-Initial commit
-1 hour ago
+
 .3he8ecu44idwc3372295992~
-Initial commit
-1 hour ago
+
 .3hsga7svazeqq719222896~
-Initial commit
-1 hour ago
+
 .3i1cw7gudc91j2741516836~
-Initial commit
-1 hour ago
+
 .3i8rnqwk4thtq1552956006~
-Initial commit
-1 hour ago
+
 .3idc1h3hs5mj82449460756~
-Initial commit
-1 hour ago
+
 .3ihnj401uzzjv122501228~
-Initial commit
-1 hour ago
+
 .3ijzo7jqsiu222211849088~
-Initial commit
-1 hour ago
+
 .3jaldp99n39kw3252428361~
-Initial commit
-1 hour ago
+
 .3jm58ibkwvn6k4259485129~
-Initial commit
-1 hour ago
+
 .3k1aj0onbwzia2223315752~
-Initial commit
-1 hour ago
+
 .3kxxuzqgu6rxe2207349329~
-Initial commit
-1 hour ago
+
 .3l711fz6qbxhq3226771034~
-Initial commit
-1 hour ago
+
 .3lb0oqco4jyhl2173398121~
-Initial commit
-1 hour ago
+
 .3lbclba3ce05z969629440~
-Initial commit
-1 hour ago
+
 .3ln7a2fe3ixf4660976533~
-Initial commit
-1 hour ago
+
 .3m3vt461a8dsx1546111132~
-Initial commit
-1 hour ago
+
 .3m806tbuy59a7987695412~
-Initial commit
-1 hour ago
+
 .3mbq87qpfjgo51570974466~
-Initial commit
-1 hour ago
+
 .3mizbonlng5cv2620976416~
-Initial commit
-1 hour ago
+
 .3mt1qln7h7ypd2397996017~
-Initial commit
-1 hour ago
+
 .3mzsk6d43zs9x414707699~
-Initial commit
-1 hour ago
+
 .3ngmnvx3rlkt0204857091~
-Initial commit
-1 hour ago
+
 .3o0lwo6ky3peq3288845049~
-Initial commit
-1 hour ago
+
 .3o8rvm9g9l3yl1562325910~
-Initial commit
-1 hour ago
+
 .3oed61jfritli2725552254~
-Initial commit
-1 hour ago
+
 .3oh33ko64307s4128028167~
-Initial commit
-1 hour ago
+
 .3oxwwglhwaxte2804192118~
-Initial commit
-1 hour ago
+
 .3pgnunft5brlk3250573344~
-Initial commit
-1 hour ago
+
 .3qdz9v9dpuuvr2301519870~
-Initial commit
-1 hour ago
+
 .3qk44ctxmr2ky2145156720~
-Initial commit
-1 hour ago
+
 .3qqh849dx9sa7916232919~
-Initial commit
-1 hour ago
+
 .3r6ui5atwplj13810368663~
-Initial commit
-1 hour ago
+
 .3rq06h9i7b0tz2108407309~
-Initial commit
-1 hour ago
+
 .3rvwj1jp5ltuc2620411148~
-Initial commit
-1 hour ago
+
 .3s1botw6vveh64144476611~
-Initial commit
-1 hour ago
+
 .3s3xm7wad2d1s2685084782~
-Initial commit
-1 hour ago
+
 .3s8pul69manzy1068289041~
-Initial commit
-1 hour ago
+
 .3sjuwr2djyfqm1767746654~
-Initial commit
-1 hour ago
+
 .3sw8pc5iwoewm2326306790~
-Initial commit
-1 hour ago
+
 .3tklwvqqwkpq43624884719~
-Initial commit
-1 hour ago
+
 .3txevnazg6ggt2773009843~
-Initial commit
-1 hour ago
+
 .3vppww8u6a0i3781122949~
-Initial commit
-1 hour ago
+
 .3vt3wramf25bu1381840005~
-Initial commit
-1 hour ago
+
 .3vtsjbxgr2vdn934855972~
-Initial commit
-1 hour ago
+
 .3w3kts3l6j5u02999935037~
-Initial commit
-1 hour ago
+
 .3w45map00dcgy1972618689~
-Initial commit
-1 hour ago
+
 .3xxddrkhy3gz425574322~
-Initial commit
-1 hour ago
+
 .4kbg0bf61sua1390362976~
-Initial commit
-1 hour ago
+
 .4v18z1gyin3j1766200050~
-Initial commit
-1 hour ago
+
 .5ujp7s8x7zuq1499105738~
-Initial commit
-1 hour ago
+
 .5zoipjqidroe2741609965~
-Initial commit
-1 hour ago
+
 .7b9p63q33wbl3153840449~
-Initial commit
-1 hour ago
+
 .7bpkt942yven17412531~
-Initial commit
-1 hour ago
+
 .7gwj8np039o7826323491~
-Initial commit
-1 hour ago
+
 .7gzagdn7a0de3598231241~
-Initial commit
-1 hour ago
+
 .8ea3eubdl3of730318755~
-Initial commit
-1 hour ago
+
 .8gxzwwoosahy3112713657~
-Initial commit
-1 hour ago
+
 .8lbwjixnfnd52154178463~
-Initial commit
-1 hour ago
+
 .8ytivmtwx4p12630228243~
-Initial commit
-1 hour ago
+
 .9tkrupwlumdz1264280649~
-Initial commit
-1 hour ago
+
 .9v9amh80b51f3986240013~
-Initial commit
-1 hour ago
+
 .9vmpmiqihk8q485537171~
-Initial commit
-1 hour ago
+
 .a4yi38qqvapf2704157097~
-Initial commit
-1 hour ago
+
 .azryn0hwxe1e3243291902~
-Initial commit
-1 hour ago
+
 .b1bwcltrz6vu2757081512~
-Initial commit
-1 hour ago
+
 .b3uyx17hjdp0348453295~
-Initial commit
-1 hour ago
+
 .batphuizzwp61190676068~
-Initial commit
-1 hour ago
+
 .beuslxk3e8r21451216874~
-Initial commit
-1 hour ago
+
 .bmbvn37q3ufu3525977798~
-Initial commit
-1 hour ago
+
 .bvboaly7mmwb3161535226~
-Initial commit
-1 hour ago
+
 .bvozme8kuth5999058899~
-Initial commit
-1 hour ago
+
 .c4fr9n73n8lz2378647495~
-Initial commit
-1 hour ago
+
 .c6vnh6sya9cl52472430~
-Initial commit
-1 hour ago
+
 .c7mrm4gcil6q1970567161~
-Initial commit
-1 hour ago
+
 .cgemfy5i6k8f1631409165~
-Initial commit
-1 hour ago
+
 .crlqcnk6blye2773348076~
-Initial commit
-1 hour ago
+
 .ddh9amm0tpcp3222912128~
-Initial commit
-1 hour ago
+
 .dlile99ez8z52085145831~
-Initial commit
-1 hour ago
+
 .dv5evzgb4hd71394823799~
-Initial commit
-1 hour ago
+
 .dw3pgk4pg04m3782786716~
-Initial commit
-1 hour ago
+
 .e4jxleqannka1705192269~
-Initial commit
-1 hour ago
+
 .esn1p6d3gyf23529394805~
-Initial commit
-1 hour ago
+
 .et5w9uppknm8688880817~
-Initial commit
-1 hour ago
+
 .etaundv650nj1323069200~
-Initial commit
-1 hour ago
+
 .f27fuejc23g62969439550~
-Initial commit
-1 hour ago
+
 .fowz9b1h8qwn3907966386~
-Initial commit
-1 hour ago
+
 .g3uoid29ve211659183414~
-Initial commit
-1 hour ago
+
 .g5rqgq0o3xnx2911260517~
-Initial commit
-1 hour ago
+
 .g9px2jm17ysn440074464~
-Initial commit
-1 hour ago
+
 .gb2t519mcnn54194590453~
-Initial commit
-1 hour ago
-.gitignore
-Adicionei arquivos ao .gitignore [2]
-1 minute ago
+
 .gk9hvuzarzfa649472506~
-Initial commit
-1 hour ago
+
 .grrvao4v8lt72724100642~
-Initial commit
-1 hour ago
+
 .guw7liwprasw3363298613~
-Initial commit
-1 hour ago
+
 .h0b8p717up793589392523~
-Initial commit
-1 hour ago
+
 .hdh8nb7gr6mm2970143445~
-Initial commit
-1 hour ago
+
 .he3enq80by2w2296128671~
-Initial commit
-1 hour ago
+
 .hfsxggo4ivik780767162~
-Initial commit
-1 hour ago
+
 .hsixprqyqh5r408005922~
-Initial commit
-1 hour ago
+
 .i6h6nh7qcjhf1050454508~
-Initial commit
-1 hour ago
+
 .jjfpum4vpfne2863513808~
-Initial commit
-1 hour ago
+
 .ju06p94vktoi2041905330~
-Initial commit
-1 hour ago
+
 .jv6y7j9ind0y3972244831~
-Initial commit
-1 hour ago
+
 .jywc3tx86ry52936701201~
-Initial commit
-1 hour ago
+
 .kblch17quh3h3054520738~
-Initial commit
-1 hour ago
+
 .kcefhp76f0e3271706057~
-Initial commit
-1 hour ago
+
 .kmoncbtiwgwc826410004~
-Initial commit
-1 hour ago
+
 .kr8mdy68n0sx2558624727~
-Initial commit
-1 hour ago
+
 .kxwlu0gfng3i3578236698~
-Initial commit
-1 hour ago
+
 .lahmqh7rfmgm1931584935~
-Initial commit
-1 hour ago
+
 .llzqmbrntl7x350679140~
-Initial commit
-1 hour ago
+
 .lopfgp8k9sgz1195160701~
-Initial commit
-1 hour ago
+
 .m4yyg94b6aqc3201928702~
 .muxtug0l7qbx855868919~
 .nfrfebdjmrt62638468707~
@@ -824,7 +584,6 @@ Initial commit
 .p7iiqz00v2pp1945993103~
 .plg0zc1u8zkj2911192968~
 .ppppizypjlyv2270958054~
-.replit
 .rgrotma0bjyq2913687971~
 .rjys4b7xd2lh948620169~
 .rue2pgqdep5r1556929926~
