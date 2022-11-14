@@ -7,6 +7,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea
+.replit
+~
 poetry.lock
 replit.nix
 .env
