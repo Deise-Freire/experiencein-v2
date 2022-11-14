@@ -8,7 +8,7 @@ __pycache__/
 *$py.class
 .idea
 .replit
-~
+.1
 poetry.lock
 replit.nix
 .env
