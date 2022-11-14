@@ -2,11 +2,11 @@
 node_modules
 .tmp
 npm-debug.log
-
+__init__.py
 __pycache__/
 *.py[cod]
 *$py.class
-
+.gitignore
 
 .env
 .venv
